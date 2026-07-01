@@ -9,7 +9,7 @@
 
 ### 📂 2장: 파이썬 프로그래밍의 기초, 자료형 (Chapter 2: Basics of Python Programming - Data Types)
 - [x] 숫자형 (Number Data Type)
-- [ ] 문자열 자료형 (String Data Type)
+- [x] 문자열 자료형 (String Data Type)
 - [ ] 리스트 자료형 (List Data Type)
 - [ ] 튜플 자료형 (Tuple Data Type)
 - [ ] 딕셔너리 자료형 (Dictionary Data Type)
