@@ -12,7 +12,7 @@
 - [x] 문자열 자료형 (String Data Type)
 - [x] 리스트 자료형 (List Data Type)
 - [ ] 튜플 자료형 (Tuple Data Type)
-- [ ] 딕셔너리 자료형 (Dictionary Data Type)
+- [x] 딕셔너리 자료형 (Dictionary Data Type)
 - [ ] 집합 자료형 (Set Data Type)
 - [ ] 불 자료형 (Bool Data Type)
 - [ ] 자료형의 값을 저장하는 공간, 변수 (Variables: The Space for Storing Values)
