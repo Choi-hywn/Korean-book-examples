@@ -11,7 +11,7 @@
 - [x] 숫자형 (Number Data Type)
 - [x] 문자열 자료형 (String Data Type)
 - [x] 리스트 자료형 (List Data Type)
-- [ ] 튜플 자료형 (Tuple Data Type)
+- [x] 튜플 자료형 (Tuple Data Type)
 - [x] 딕셔너리 자료형 (Dictionary Data Type)
 - [ ] 집합 자료형 (Set Data Type)
 - [ ] 불 자료형 (Bool Data Type)
