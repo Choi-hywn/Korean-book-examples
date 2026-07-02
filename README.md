@@ -14,7 +14,7 @@
 - [x] 튜플 자료형 (Tuple Data Type)
 - [x] 딕셔너리 자료형 (Dictionary Data Type)
 - [x] 집합 자료형 (Set Data Type)
-- [ ] 불 자료형 (Bool Data Type)
+- [X] 불 자료형 (Bool Data Type)
 - [ ] 자료형의 값을 저장하는 공간, 변수 (Variables: The Space for Storing Values)
 - [ ] 2장 되새김 문제 (Chapter 2 Review Problems)
 
